@@ -33,7 +33,7 @@ Missing attribute values: none
 ## Notes on Model Building  
 1. The Libraries used are:  
 * Numpy, Pandas, Matplotlib, Seaborn for data manipulation and exploratory data analysis  
-2. Classification Techniques:  
+2. Classification Techniques used:  
 * SVM  
 * Logistic Regression  
 
